@@ -1,0 +1,30 @@
+{
+  "k_range": [
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "inertias": [
+    26542.562595051066,
+    21825.925366114912,
+    19436.032048986384,
+    17764.108509118363,
+    16428.74661016215
+  ],
+  "silhouettes": [
+    0.2008645313403352,
+    0.2319942036656863,
+    0.22355652312187657,
+    0.23309474368949912,
+    0.24642391973501754
+  ],
+  "cluster_names": {
+    "0": "Late Night Free Flow (Low Volume)",
+    "1": "Off-Peak / Weekend Leisure Flow",
+    "3": "Midday Steady Transit (Moderate)",
+    "2": "Peak Commuter Congestion (High)"
+  },
+  "anomaly_rate": 0.009537892791127541
+}

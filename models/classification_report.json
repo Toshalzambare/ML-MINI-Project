@@ -1,0 +1,27 @@
+{
+  "Free-Flow / Uncongested": {
+    "precision": 0.9767106842737094,
+    "recall": 0.9852264470816178,
+    "f1-score": 0.9809500843983603,
+    "support": 4129.0
+  },
+  "Congested / High Flow": {
+    "precision": 0.9845569620253165,
+    "recall": 0.9756648268941295,
+    "f1-score": 0.9800907258064516,
+    "support": 3986.0
+  },
+  "accuracy": 0.9805298829328404,
+  "macro avg": {
+    "precision": 0.980633823149513,
+    "recall": 0.9804456369878736,
+    "f1-score": 0.9805204051024059,
+    "support": 8115.0
+  },
+  "weighted avg": {
+    "precision": 0.980564690819354,
+    "recall": 0.9805298829328404,
+    "f1-score": 0.9805279767769989,
+    "support": 8115.0
+  }
+}

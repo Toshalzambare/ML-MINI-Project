@@ -1,0 +1,16 @@
+{
+  "matrix": [
+    [
+      4068,
+      61
+    ],
+    [
+      97,
+      3889
+    ]
+  ],
+  "labels": [
+    "Free-Flow / Uncongested",
+    "Congested / High Flow"
+  ]
+}
